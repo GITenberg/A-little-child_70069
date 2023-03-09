@@ -1,0 +1,31 @@
+_repo: A-little-child_70069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cummins, Mary Hornibrook
+    gutenberg_agent_id: '55579'
+    url: http://www.gutenberg.org/2009/agents/55579
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70069'
+  lccn: '13021821'
+language: en
+pgterms:marc904: https://archive.org/details/littlechild00cumm/mode/2up
+pgterms:marc905: 20221113060639cummins
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bDavis & Bond, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Redemption -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A little child
+url: http://www.gutenberg.org/ebooks/70069
